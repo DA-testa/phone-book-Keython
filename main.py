@@ -1,4 +1,5 @@
 # python3
+#Keita Laimiņa 221RDB023
 
 class Query:
     def __init__(self, query):
